@@ -1,6 +1,6 @@
 WELCOME
 
-Thanks for downloading Gosu.  You are using version project.version
+Thanks for downloading Gosu.  You are using version v1.2
 
 
 QUICK INSTALL
