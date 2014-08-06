@@ -1,6 +1,6 @@
 WELCOME
 
-Thanks for downloading Gosu.  You are using version ${project.version}.
+Thanks for downloading Gosu.  You are using version project.version
 
 
 QUICK INSTALL
